@@ -1,13 +1,12 @@
 
 # Budget App
 
-Budget app with  deposit, withdrawl, balance, and transfer methods.
+## Description
+- Budget app with  deposit, withdrawl, balance, and transfer methods.
+- Displays formatted entries by category.
+- Displays bar-chart of category withdrawls as a percentage of total withdrawls. 
 
-Displays formatted entries by category
-
-Displays bar-chart of category withdrawls as a percentage of total withdrawls. 
-
-Example
+## Example
 ```
 food = Category("Food")
 food.deposit(1000, "deposit")
@@ -47,8 +46,6 @@ Percentage spent by category
         g     
 ```
 
-For the purpose of reviewing python to follow cse 312. 
-
-
-
+## Purpose
+To review python to follow cse 312. 
 
